@@ -6,5 +6,6 @@ public class testPrimeFact {
         System.out.println("World");
         System.out.println("Hello");
         System.out.println("Got the latest change from Intelliz");
+        System.out.println("Got The latest change");
     }
 }
