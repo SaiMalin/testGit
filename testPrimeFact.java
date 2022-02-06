@@ -9,6 +9,8 @@ public class testPrimeFact {
         System.out.println("Got The latest change");
         System.out.println("Got the Stash I believe");
         System.out.println(("Got the Stashed from Intelliz"));
+        System.out.println(("Got the Stashed from Intelliz"));
+        System.out.println(("Got the Stashed from Intelliz"));
         System.out.println("Hello world");
     }
 }
