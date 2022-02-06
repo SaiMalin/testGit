@@ -4,5 +4,6 @@ public class testPrimeFact {
     {
         System.out.println("Hello this is from testPrimeFact");
         System.out.println("World");
+        System.out.println("Hello");
     }
 }
